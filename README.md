@@ -3,9 +3,5 @@
 
 ## Components
 
-> Raspberry Pi
-> NodeMCU
-> Jumper Wires
-> DHT11
-> OLED Screen 0.96inch
+> Raspberry Pi, NodeMCU, Jumper Wires, DHT11, OLED Screen 0.96inch
 
